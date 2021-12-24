@@ -1,4 +1,5 @@
-- steps:
+pipeline:
+  - steps:
       name: 1
       pipeline:
       - step:
